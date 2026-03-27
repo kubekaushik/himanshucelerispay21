@@ -7,7 +7,7 @@ I'm an experienced DevOps Engineer with a strong passion for building, automatin
 
 - 🌍 **Location:** Noida, India 🇮🇳
 - 🎓 **Education:** MBA in IT from JSS ATE, Noida
-- 💼 **Currently Working:** Celeris Payments
+- 💼 **Currently Working:** Petco
 - 🌱 **Looking to Collaborate on:** DevOps
 - 💬 **Ask Me About:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more!
 
